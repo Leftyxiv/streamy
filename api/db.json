@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Manny's miraculous mopeds",
+      "description": "nothing!",
+      "id": 1
+    },
+    {
+      "title": "Stream number 2",
+      "description": "here's another stream homies",
+      "id": 2
+    },
+    {
+      "title": "I did this brotato",
+      "description": "this was made by big manny",
+      "userId": "112230439135336239570",
+      "id": 3
+    },
+    {
+      "title": "Let's try this again",
+      "description": "refactoring again",
+      "id": 5
+    }
+  ]
+}
